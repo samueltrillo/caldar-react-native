@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     return (
         <View>
             <Text style={styles.headerWhite}>Cald
-                <Text style={styles.headerOrange}>Ar</Text>          
+                <Text style={styles.headerOrange}>Ar</Text>
             </Text>
         </View>
     )
