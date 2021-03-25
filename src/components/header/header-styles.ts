@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
       color: 'white',
       marginTop: 20
     },
-    headerOrange: {
+    headerGrey: {
       color: '#3d4855',
     },
   });
