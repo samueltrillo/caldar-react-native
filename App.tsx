@@ -3,10 +3,10 @@ import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 
-import Header from './components/header';
-import Home from '../src/components/home';
-import DrawerContent from './components/drawer-content';
-import Appointments from './components/appointments';
+import Home from './src/components/home';
+import DrawerContent from './src/components/drawer-content';
+import Appointments from './src/components/appointments';
+import Header from './src/components/header';
 
 const App = () => {
   const Stack = createStackNavigator();
